@@ -1,0 +1,7 @@
+﻿TASK_ID: WEEK_TITLES_20260129_1705
+On the active page, find all section titles that are date ranges like January 26 - February 1 (month day - month day). Return ONLY this format:
+TASK_ID: WEEK_TITLES_20260129_1705
+TITLES_START
+Title
+Title
+TITLES_DONE

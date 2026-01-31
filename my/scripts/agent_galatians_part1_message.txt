@@ -1,0 +1,5 @@
+Use the browser tool. Go to https://learning.sebts.edu/login/index.php?loginredirect=1.
+If you are not logged in, stop and respond with login required.
+If already logged in, navigate to the week February 16 - February 22.
+Only open the video named Galatians - Part 1 and copy the podcast download link (direct download URL).
+Return just {title: url}. Do not download the file.

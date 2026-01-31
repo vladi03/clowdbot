@@ -1,0 +1,20 @@
+﻿TASK_ID: WEEK_URLS_20260129_0315
+Collect direct download URLs for each video in these week sections (Panopto). Do one video at a time and use the download/history link to get the direct download.cdn.hosted.panopto.com URL.
+Return ONLY this format in one message:
+TASK_ID: WEEK_URLS_20260129_0315
+URLS_START
+Title<TAB>URL
+Title<TAB>URL
+URLS_DONE
+
+Weeks to cover in order:
+- March 2 - March 8
+- March 2 - March 8 (repeat)
+- March 23 - March 29
+- March 30 - April 5
+- April 6 - April 12
+- April 13 - April 19
+- April 20 - April 26
+- April 27 - May 3
+
+Do NOT download files or write to any paths; just return the list.

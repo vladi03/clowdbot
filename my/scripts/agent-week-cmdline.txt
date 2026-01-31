@@ -1,0 +1,2 @@
+﻿"C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -Command "[Console]::OutputEncoding=[System.Text.Encoding]::UTF8;
+$proc = Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -like '*agent-week-message.txt*' } | Select-Object -First 1; $proc.CommandLine | Set-Content -Path C:\Users\vladi\moltbot\clawdbot\my\scripts\agent-week-cmdline.txt -Encoding UTF8"

@@ -1,0 +1,25 @@
+﻿TASK_ID: WEEK_WATCH_URLS_20260129_1712
+Collect direct download URLs for each 'Watch' video in these week sections on the current Panopto page. Do one video at a time and use the download/history link to get the direct download.cdn.hosted.panopto.com URL.
+Return ONLY this format:
+TASK_ID: WEEK_WATCH_URLS_20260129_1712
+URLS_START
+Title<TAB>URL
+Title<TAB>URL
+URLS_DONE
+
+Weeks to cover in order:
+- January 26 - February 1
+- February 2 - February 8
+- February 9 - February 15
+- February 16 - February 22
+- February 23 - March 1
+- March 2 - March 8
+- March 9 - March 15
+- March 16 - March 22
+- March 23 - March 29
+- March 30 - April 5
+- April 6 - April 12
+- April 13 - April 19
+- April 20 - April 26
+- April 27 - May 3
+- May 4 - May 6

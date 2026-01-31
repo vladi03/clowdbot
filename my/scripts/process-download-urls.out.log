@@ -1,0 +1,91 @@
+2026-01-28 23:51:43 Downloading 18 files to C:\\Users\\vladi\\code\\text_to_voice\\learn_vids
+2026-01-28 23:51:43 Downloading: Introduction to the Catholic Epistles_default.mp4
+2026-01-28 23:51:47 Downloading: Jude_default.mp4
+2026-01-28 23:51:50 Downloading: Hebrews_default.mp4
+2026-01-28 23:51:54 Downloading: Revelation 3_default.mp4
+2026-01-28 23:51:57 Downloading: Revelation 4_default.mp4
+2026-01-28 23:52:01 Downloading: 2-3 John_default.mp4
+2026-01-28 23:52:04 Downloading: Revelation_default.mp4
+2026-01-28 23:52:08 Downloading: Introduction to the Johannine Epistles_default.mp4
+2026-01-28 23:52:10 Downloading: James_default.mp4
+2026-01-28 23:52:12 Downloading: James 2_default.mp4
+2026-01-28 23:52:15 Downloading: Philippians_default.mp4
+2026-01-28 23:52:17 Downloading: Pastoral Epistles_default.mp4
+2026-01-28 23:52:21 Downloading: Revelation 2_default.mp4
+2026-01-28 23:52:25 Downloading: 1 John_default.mp4
+2026-01-28 23:52:30 Downloading: Colossians_default.mp4
+2026-01-28 23:52:32 Downloading: 2 Peter_default.mp4
+2026-01-28 23:52:35 Downloading: Philemon_default.mp4
+2026-01-28 23:52:38 Downloading: 1 Peter_default.mp4
+2026-01-28 23:52:42 Extracting MP3 audio
+Done. MP3 files are in C:\Users\vladi\code\text_to_voice\learn_vids\mp3
+2026-01-28 23:54:44 Running transcription
+Transcribing 1 John_default.mp3...
+Transcribing chunk 1/3: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_169036_1769662484288\chunk_000.mp3
+Transcribing chunk 2/3: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_169036_1769662484288\chunk_001.mp3
+Transcribing chunk 3/3: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_169036_1769662484288\chunk_002.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\1 John_default.txt
+Transcribing 1 Peter_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_183868_1769662523957\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_183868_1769662523957\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\1 Peter_default.txt
+Transcribing 2 Peter_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_154332_1769662548619\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_154332_1769662548619\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\2 Peter_default.txt
+Transcribing 2-3 John_default.mp3...
+Transcribing chunk 1/1: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_181996_1769662570330\chunk_000.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\2-3 John_default.txt
+Transcribing Colossians_default.mp3...
+Transcribing chunk 1/1: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_183424_1769662585921\chunk_000.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Colossians_default.txt
+Transcribing Hebrews_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_186068_1769662601102\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_186068_1769662601102\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Hebrews_default.txt
+Transcribing Introduction to the Catholic Epistles_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_180972_1769662636468\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_180972_1769662636468\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Introduction to the Catholic Epistles_default.txt
+Transcribing Introduction to the Johannine Epistles_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_186976_1769662658122\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_186976_1769662658122\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Introduction to the Johannine Epistles_default.txt
+Transcribing James 2_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_184992_1769662678480\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_184992_1769662678480\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\James 2_default.txt
+Transcribing James_default.mp3...
+Transcribing chunk 1/1: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_180536_1769662709182\chunk_000.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\James_default.txt
+Transcribing Jude_default.mp3...
+Transcribing chunk 1/1: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_183628_1769662737664\chunk_000.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Jude_default.txt
+Transcribing Pastoral Epistles_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182284_1769662750244\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182284_1769662750244\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Pastoral Epistles_default.txt
+Transcribing Philemon_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182592_1769662786776\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182592_1769662786776\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Philemon_default.txt
+Transcribing Philippians_default.mp3...
+Transcribing chunk 1/1: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_184724_1769662811923\chunk_000.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Philippians_default.txt
+Transcribing Revelation 2_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_185760_1769662827675\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_185760_1769662827675\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Revelation 2_default.txt
+Transcribing Revelation 3_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_154208_1769662858579\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_154208_1769662858579\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Revelation 3_default.txt
+Transcribing Revelation 4_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182264_1769662882367\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_182264_1769662882367\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Revelation 4_default.txt
+Transcribing Revelation_default.mp3...
+Transcribing chunk 1/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_176276_1769662905845\chunk_000.mp3
+Transcribing chunk 2/2: C:\Users\vladi\code\text_to_voice\temp_transcribe_chunks_176276_1769662905845\chunk_001.mp3
+Transcription saved to C:\Users\vladi\code\text_to_voice\learn_vids\transcripts\Revelation_default.txt
+2026-01-29 00:02:10 All done

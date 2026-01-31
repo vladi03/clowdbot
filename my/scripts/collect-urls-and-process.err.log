@@ -1,0 +1,7 @@
+No .mp3 files found in C:\Users\vladi\code\text_to_voice\learn_vids\mp3
+At C:\Users\vladi\code\text_to_voice\run_transcribe_all.ps1:6 char:20
++ if (-not $files) { throw "No .mp3 files found in $inputDir" }
++                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (No .mp3 files f...\learn_vids\mp3:String) [], RuntimeException
+    + FullyQualifiedErrorId : No .mp3 files found in C:\Users\vladi\code\text_to_voice\learn_vids\mp3
+ 
