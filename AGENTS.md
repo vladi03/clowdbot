@@ -13,9 +13,41 @@ This workspace is for coordinating Clowdbot agent runs and monitoring progress.
 3) Decide the next step based on the verification.
 4) If a step fails, stop and report the exact error, then propose the minimal fix.
 5) For HTML outputs:
-   - Save to `C:\Users\vladi\moltbot\clawd\public\<name>.html`
-   - Deploy with `C:\Users\vladi\moltbot\clawd\deploy-html.ps1 -HtmlPath C:\Users\vladi\moltbot\clawd\public\<name>.html`
+   - Save to `$env:CLAWD_PUBLIC\<name>.html`
+   - Deploy with `$env:CLAWD_DEPLOY_SCRIPT -HtmlPath $env:CLAWD_PUBLIC\<name>.html`
    - Verify the URL and return it.
+
+## Browser Agent Instructions
+- The browser agent uses its own instructions file:
+  `$env:CLAWD_BROWSER_AGENTS`
+- Do not duplicate instructions that the agent already knows there.
+
+## Gateway + Agent CLI
+
+Check gateway status:
+```powershell
+moltbot status
+```
+
+Start gateway (loopback default port 18789):
+```powershell
+moltbot gateway --port 18789
+```
+
+Send a message to the agent:
+```powershell
+moltbot agent --agent main --message "Hello"
+```
+
+Send and deliver to configured channel:
+```powershell
+moltbot agent --agent main --message "Hello" --deliver
+```
+
+## Agent Files
+
+- Default agent workspace (files created by the agent): `$env:CLAWD_WORKSPACE`
+- HTML for hosting: `$env:CLAWD_PUBLIC`
 
 ## Communication
 - Prefer direct CLI invocation (no helper scripts unless required).
